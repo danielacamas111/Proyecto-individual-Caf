@@ -1,0 +1,61 @@
+/* Importar tipografías de Google Fonts estilo cafetería artesanal */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Quicksand:wght@400;500;600;700&display=swap');
+
+/* Configuración General del Sitio */
+body {
+    font-family: 'Quicksand', sans-serif !important;
+    background-color: #2b2118 !important; /* Fondo café oscuro warm beige/espresso */
+    color: #f3ece1 !important; /* Texto claro legible */
+}
+
+/* Títulos con tipografía refinada */
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: 'Cinzel', serif !important;
+    letter-spacing: 1px;
+}
+
+/* Barra de navegación superior */
+.navbar {
+    background-color: #1e1712 !important; /* Tono café espresso para la barra */
+    border-bottom: 1px solid #48382c !important;
+}
+
+.navbar-brand {
+    color: #e5c9b4 !important;
+}
+
+.nav-link {
+    color: #d4b59d !important;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: #ffffff !important;
+}
+
+/* Botones con tono beige cálido */
+.btn-primary, .btn-success {
+    background-color: #c4a482 !important;
+    border-color: #c4a482 !important;
+    color: #1e1712 !important;
+    font-weight: 600;
+    border-radius: 20px !important;
+}
+
+.btn-primary:hover, .btn-success:hover {
+    background-color: #d9b897 !important;
+    border-color: #d9b897 !important;
+}
+
+/* Estilo para tablas de datos (Productos, Usuarios, etc.) */
+.table {
+    color: #f3ece1 !important;
+    background-color: #1e1712 !important;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.table thead {
+    background-color: #3d2f23 !important;
+    color: #e5c9b4 !important;
+}
