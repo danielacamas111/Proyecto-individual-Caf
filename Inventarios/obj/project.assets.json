@@ -3150,11 +3150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cafeteriamvc\\Inventarios\\Inventarios.csproj",
+      "projectUniqueName": "C:\\Cafeteriamvc\\Proyecto-individual-Caf\\Inventarios\\Inventarios.csproj",
       "projectName": "Inventarios",
-      "projectPath": "C:\\Cafeteriamvc\\Inventarios\\Inventarios.csproj",
+      "projectPath": "C:\\Cafeteriamvc\\Proyecto-individual-Caf\\Inventarios\\Inventarios.csproj",
       "packagesPath": "C:\\Users\\Yo\\.nuget\\packages\\",
-      "outputPath": "C:\\Cafeteriamvc\\Inventarios\\obj\\",
+      "outputPath": "C:\\Cafeteriamvc\\Proyecto-individual-Caf\\Inventarios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yo\\AppData\\Roaming\\NuGet\\NuGet.Config"
